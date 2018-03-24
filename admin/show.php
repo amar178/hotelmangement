@@ -195,7 +195,7 @@ tr:hover .cut { opacity: 1; }
 			<h1>Information of Guest</h1>
 			<address >
 				<p>Hotel Management,</p>
-				<p>New Kalmunani Road,<br>Battialoa,<br>Sri Lanka.</p>
+				<p>New Kalmunani Road,<br>Battialoa,<br>Bangladesh</p>
 				<p>(+94) 65 222 44 55</p>
 			</address>
 			<span><img alt="" src="assets/img/sun.png"></span>

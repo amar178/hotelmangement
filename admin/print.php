@@ -256,8 +256,8 @@ tr:hover .cut { opacity: 1; }
 			<h1>Invoice</h1>
 			<address >
 				<p>Hotel Management,</p>
-				<p>New Kalmunani Road,<br>Battialoa,<br>Sri Lanka.</p>
-				<p>(+94) 65 222 44 55</p>
+				<p>Dhanmondi,<br>Sankar,<br>Bangladesh</p>
+				<p>(+880)1968174323</p>
 			</address>
 			<span><img alt="" src="assets/img/sun.png"></span>
 		</header>
@@ -330,7 +330,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contact us</span></h1>
 			<div >
-				<p align="center">Email :- amorkrishna90@gmail.com || Web :- www.hotelmanagement.com || Phone :- +94 65 222 44 55 </p>
+				<p align="center">Email :- amorkrishna90@gmail.com || Web :- www.hotelmanagement.com || Phone :- +8801986174323 </p>
 			</div>
 		</aside>
 	</body>
