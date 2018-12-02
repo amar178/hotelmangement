@@ -1,4 +1,10 @@
-<html>
+<?php
+session_start();
+if(!isset($_SESSION["user"]))
+{
+    header("location:index.php");
+}
+?> <html>
 	<head>
 		<meta charset="utf-8">
 		<title>Details of Book key</title>
