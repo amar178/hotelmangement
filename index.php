@@ -278,9 +278,6 @@ include('db.php');
                 <li>
                     <img src="images/teams3.jpg" alt=" " class="img-responsive" />
                 </li>
-                <li>
-                    <img src="images/teams4.jpg" alt=" " class="img-responsive" />
-                </li>
             </ul>
             <div class="resp-tabs-container">
                 <div class="tab1">

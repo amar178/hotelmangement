@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="289" column="43" selection-start-line="289" selection-start-column="43" selection-end-line="289" selection-end-column="43" />
+            <state relative-caret-position="156">
+              <caret line="279" column="21" selection-start-line="279" selection-start-column="21" selection-end-line="279" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -45,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="26887">
               <caret line="1169" column="28" selection-start-line="1169" selection-start-column="28" selection-end-line="1169" selection-end-column="28" />
             </state>
           </provider>
@@ -127,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-4" />
     <option name="y" value="9" />
     <option name="width" value="1382" />
@@ -217,6 +217,7 @@
       <workItem from="1521920902925" duration="54000" />
       <workItem from="1543762610285" duration="4269000" />
       <workItem from="1547393959757" duration="3272000" />
+      <workItem from="1547570767929" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1518977076574</created>
@@ -238,12 +239,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19038000" />
+    <option name="totallyTimeSpent" value="19110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19062027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TeamCity" order="0" />
@@ -256,7 +258,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32991454" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32649574" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3289689" />
@@ -410,17 +412,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="1169" column="28" selection-start-line="1169" selection-start-column="28" selection-end-line="1169" selection-end-column="28" />
+        <state relative-caret-position="156">
+          <caret line="279" column="21" selection-start-line="279" selection-start-column="21" selection-end-line="279" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="289" column="43" selection-start-line="289" selection-start-column="43" selection-end-line="289" selection-end-column="43" />
+        <state relative-caret-position="26887">
+          <caret line="1169" column="28" selection-start-line="1169" selection-start-column="28" selection-end-line="1169" selection-end-column="28" />
         </state>
       </provider>
     </entry>
